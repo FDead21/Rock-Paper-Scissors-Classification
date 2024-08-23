@@ -32,9 +32,9 @@ Dataset can be downloaded through here :
 
 https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset
 
-**Clone the repository:**
+**The Repository:**
 
-git clone https://github.com/FDead21/rock-paper-scissors-classification.git
+https://github.com/FDead21/rock-paper-scissors-classification.git
 
 **The script will:**
 
