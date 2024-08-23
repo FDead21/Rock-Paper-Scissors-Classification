@@ -26,22 +26,18 @@ The model uses transfer learning with a pre-trained VGG16 network to classify im
 
 ## Setup
 
-1. Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/FDead21/rock-paper-scissors-classification.git
 
 cd rock-paper-scissors-classification
 
-2. The script will:
 
-
-
+**The script will:**
 -Prepare and augment the data
 -Create and train the model
 -Evaluate the model on the validation set
 -Generate visualizations of the results
-
-
 
 
 **Model Architecture**
