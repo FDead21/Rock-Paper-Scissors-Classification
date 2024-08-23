@@ -1,6 +1,6 @@
 # Rock Paper Scissors Image Classification
 
-This project implements a convolutional neural network (CNN) (VGG16 architecture to be specific) to classify images of hand gestures representing rock, paper, and scissors.
+This project implements a convolutional neural network (CNN) to classify images of hand gestures representing rock, paper, and scissors.
 
 ## Project Overview
 
