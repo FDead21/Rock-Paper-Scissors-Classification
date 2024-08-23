@@ -26,6 +26,12 @@ The model uses transfer learning with a pre-trained VGG16 network to classify im
 
 ## Setup
 
+**Dataset**
+
+Dataset can be downloaded through here : 
+
+https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset
+
 **Clone the repository:**
 
 git clone https://github.com/FDead21/rock-paper-scissors-classification.git
