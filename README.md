@@ -34,20 +34,21 @@ cd rock-paper-scissors-classification
 
 
 **The script will:**
--Prepare and augment the data
--Create and train the model
--Evaluate the model on the validation set
--Generate visualizations of the results
+
+- Prepare and augment the data
+- Create and train the model
+- Evaluate the model on the validation set
+- Generate visualizations of the results
 
 
 **Model Architecture**
 
 The model uses a pre-trained VGG16 network as a base, with the following modifications:
 
--Removal of the top (fully connected) layers
--Addition of a Global Average Pooling layer
--Addition of a Dense layer with 256 units and ReLU activation
--Output layer with 3 units (for the 3 classes) and softmax activation
+- Removal of the top (fully connected) layers
+- Addition of a Global Average Pooling layer
+- ADdition of a Dense layer with 256 units and ReLU activation
+- Output layer with 3 units (for the 3 classes) and softmax activation
 
 
 **Results**
@@ -57,7 +58,7 @@ The model achieves high accuracy on the validation set. Detailed metrics, includ
 
 **Future Improvements**
 
--Experiment with different pre-trained models (e.g., ResNet, Inception)
--Implement cross-validation
--Try more / different data augmentation techniques
--Fine-tune hyperparameters
+- Experiment with different pre-trained models (e.g., ResNet, MobileNet, Inception, etc.)
+- Implement cross-validation
+- Try more data augmentation techniques
+- Fine-tune hyperparameters
